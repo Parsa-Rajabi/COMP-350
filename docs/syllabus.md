@@ -2,13 +2,13 @@
 
 # Course Syllabus
 
-**CIS 100: Introduction to Computers and Digital Technologies (3)**
+**COMP 350: User Interface Design and Programming (3)**
 
 ---
 **Winter 2025**
 
-- **Section CIS 100 ON1 [CRN 10379]**
-  - Mondays, 13:00-15:50, [Hybrid via Zoom](home.md)
+- **Section COMP 350 AB1 [CRN 10531]**
+  - Mondays, 19:00-21:50, [Hybrid](home.md)
 
 ---
 ## Course Instructor
@@ -25,7 +25,7 @@
 
 Note: When emailing, please include the following in your email:
 
-- Subject: `[CIS 100 ON1] - Your Subject`
+- Subject: `[COMP 350 AB1] - Your Subject`
 - In the body, include your full name, student ID, and your inquiry.
 
 ### Professionalism 
@@ -36,21 +36,15 @@ Before sending an email, make sure to review this article on [How to email your 
 
 Repeated unprofessional behavior will result in grade deduction from your final grade, with each violation resulting in a 1% deduction. Students will be notified of possible deductions after the first warning.
 
-## Lab Monitor
-
-**Name:** Aastha Anand
-
-**Email:** Aastha.Anand [at] student.ufv [dot] ca
-
-### Weekly Module Tests (Flipped Classroom) 
+### Weekly Modules (Flipped Classroom) 
 
 This course will be taught using a pedagogical technique known as the [Flipped/Hybrid classroom](https://bokcenter.harvard.edu/flipped-classrooms).  This approach makes the most of our precious class time by eliminating the standard lecturing model, where course material is introduced to the students during class, usually via a lengthy PowerPoint presentation.  In our Flipped/Hybrid classroom, you will come to class having already completed several pre-assigned material (and videos) where you will be introduced to the course material.  During class, you will apply your understanding of these core concepts through carefully-chosen problems and activities, which will enable you to solidify your knowledge.  
 
 Flipped/Hybrid classrooms require much more focus and preparation time, for both the instructor and the students.  After all, it is much easier for the instructor to read a set of pre-prepared slides and for the students to passively observe and listen.  But in our class, we will devote our class time to the computational thinking process: resolving obstacles, developing conceptual understanding and communicating solutions supported by evidence. Through this process, you will better develop your confidence, creativity, and critical-thinking skills (i.e. Computational Thinking), preparing you to become a successful problem-solver in the real world.
 
-In order for this course to be a meaningful learning experience, you will need to come to each class well-prepared, with all assigned modules and videos complete. This emphasis on assigned labs/assignments is the reason why the course is structured as it is. If you do not complete the modules, you will have a hard time following the in-class activities, which will make it that much harder for you to successfully complete the course deliverables.
+In order for this course to be a meaningful learning experience, you will need to come to each class well-prepared, with all assigned modules and videos complete. This emphasis on assigned learning logs/assignments is the reason why the course is structured as it is. If you do not complete the modules, you will have a hard time following the in-class activities, which will make it that much harder for you to successfully complete the course deliverables.
 
-I have designed this course so that you will be spending approximately 9 to 12 hours per week on all activities relating to this course (i.e., labs, assignments, attending class, all assessments).
+I have designed this course so that you will be spending approximately 9 to 12 hours per week on all activities relating to this course (i.e., learning logs, assignments, attending class, all assessments).
 
 ## Classroom Etiquette
 
@@ -64,9 +58,10 @@ Giving and receiving feedback is one of the core activities in this class. When 
 
 The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescriptions) of this course is:
 
-> Hands-on approach to learning the basics of operating systems, file management, knowledge management, cloud computing, and communications technology. Learn software skills relevant to student success in other courses, such as word processing, presentations, spreadsheets, and graphics.
+> This course introduces the topic of human-computer interaction by teaching students how to design and program enjoyable, user-centered graphical interfaces. The design principles are based on user behavior and human factors such as perception, memory, and attention. Students will learn to implement graphical user interfaces in a variety of programming environments and operating systems.
 >
-> Prerequisite(s): None. It is recommended that students are competent in computer skills.
+> Prerequisite(s): COMP 251 and admission to the Bachelor of Computer Information Systems degree or the Bachelor of Science with Computing Science major.
+> Note: Students accepted to a CIS or Computing Science minor may register with permission of the department.
 > Corequisite(s): None.
 > Pre- or corequisite(s): None.
 
@@ -74,35 +69,36 @@ The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescrip
 
 The Learning outcomes for this course are:
 
-1. Manage file organization locally, on a network, and in the cloud for personal and business use.
-2. Apply advanced search techniques using search engines.
-3. Create digital media with one’s own digital footprint with the privacy concerns.
-4. Demonstrate effective word-processing skills for creating research papers in one of MLA, Chicago, or APA style with
-decolonized adoption.
-5. Apply spreadsheets skills for numerical analysis and to design financial documents.
-6. Develop a professional presentation with graphics.
-7. Demonstrate an awareness of ethics and equity issues relating to cloud computing and modern digital era.
-8. Identify digital communication media tools.
-9. Acknowledge the indigenous history and available resources online.
+1.	**Ethics in HCI Research**: Demonstrate understanding of ethical considerations in human-computer interaction.
+2.	**Heuristic Evaluation Skills**: Apply heuristic evaluation techniques to assess everyday interfaces, identify usability issues, and recommend actionable improvements.
+3.	**Foundations of UI/UX**: Develop an understanding of UI/UX principles through a hands-on project, demonstrating competence in key concepts of user interface.
+4.	**Design Principles**: Analyze and apply fundamental design principles to evaluate and improve the usability and accessibility of digital interfaces.
+5.	**User Needs Analysis**: Demonstrate the ability to understand and prioritize user needs through surveys, and questionnaires.
+6.	**Prototyping Fidelity**: Differentiate between low, mid, and high-fidelity prototypes and create prototypes of varying fidelities to address specific design problems.
+7.	**Visual Design Essentials**: Incorporate principles of visual design, including layout and affordances, into the development of interface prototypes.
+8.	**Bridging Problem and Design**: Synthesize user research findings and design requirements to formulate innovative and user-centered solutions.
 
-## Required Textbook Material
+## Reference Textbook Material (optional)
 
-> [!WARNING]
-> You will not be able to complete this course with another section's textbooks as they differ. Make sure to select the correct course/section  and see "**Parsa Rajabi**" as instructor.
+> [!INFO]
+> All required readings and materials will be provided by the instructor, however, the following textbook is recommended for additional reference material:
 
-The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Edition
-
-![](images/CIS100-textbook.png)
-
+- Interaction Design: Beyond Human-Computer Interaction, Rogers, Sharp and Preece (RSP), 5th Ed, 2019, Wiley.
+- The Design of Everyday Things: Revised and Expanded Edition, Don Norman, 2013, Basic Books.
+- User Interface Design and Evaluation, Stone, Jarrett, Woodroffe, Minocha, 2005, Morgan Kaufmann.
+- Don’t Make Me Think: A Common-sense approach to Usability, Steve Krug, 2014, New Riders.
+- Designing with the Mind in Mind, Jeff Johnson, 2014, Morgan Kaufmann.
 
 ## Course Evaluation
 
-|      **Item**       | **Weight** |
-| :-----------------: | :--------: |
-| Weekly Module Tests |    15%     |
-|     Assignments     |    25%     |
-|       Quizzes       |    30%     |
-|   Final Component   |    30%     |
+|               **Item**               | **Weight** |
+| :----------------------------------: | :--------: |
+|   Participation + Professionalism    |     5%     |
+| Weekly Learning Log + Visual Journal |    10%     |
+|             Assignment 1             |    10%     |
+|             Assignment 2             |    15%     |
+|             Assignment 3             |    20%     |
+|             Midterm Exam             |    40%     |
 
 
 ### Letter Grade Conversion
@@ -110,17 +106,17 @@ The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Ed
 
 ## Passing Criteria
 
-Students must attain an overall passing grade (50% or higher) on the weighted average of quizzes and final component in the course to obtain a clear pass (C- or better).
+Students must attain an overall passing grade (50% or higher) on the weighted average of assignments and midterm exam in the course to obtain a clear pass (C- or better).
 
 ## Course and Policies
 
 ### Late Policy and Missed Items
 
-Course elements such as assignments and module tests can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned.
+Course elements such as assignments and learning logs can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned.
 
-Make-up assessments (including assignments, exams and quizzes) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
+Make-up assessments (including assignments and exams) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
  
-While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the Lab Monitor or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
+While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let your instructor know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
 In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. 
 
@@ -138,9 +134,13 @@ If you feel a course item has been incorrectly assessed you may request that the
 
 Requests must include a written letter for the re-marking and be submitted to the course instructor within 5 business days from receiving the mark or a deadline specified by the instructor, whichever comes first. The request must be signed and submitted via email. 
 
-Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
+> [!WARNING]
+> Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
 
 The re-marking request will be reviewed by the teaching team and if accepted, the item will be re-marked in its entirety by both the course instructor. This may result in a higher, unchanged, or lower mark overall which will be final. 
+
+### Artificial Intelligence (AI) / ChatGPT Policy
+The use of AI tools such as ChatGPT is permitted with specific guidelines (subject to audits). Please refer to the [AI Policy](ai-policy.md) for more information.
 
 ### Academic Integrity
 
@@ -156,7 +156,7 @@ Students are also prohibited from sharing computers or using another student’s
 
 #### Inappropriate use of technology in coursework
 
-The use of technology to produce content for your assignments that is not specifically listed in the syllabus as permissible is strictly prohibited. **All submissions for grading must be your own work.** This specifically includes a prohibition on artificial intelligence writing software such as ChatGPT and translation software as it will interfere with the learning objectives outlined for this course.
+The use of technology to produce content for your assignments that is not specifically listed in the syllabus as permissible is strictly prohibited. **All submissions for grading must be your own work.**
 
 #### Collusion / Unauthorized Collaboration
 
