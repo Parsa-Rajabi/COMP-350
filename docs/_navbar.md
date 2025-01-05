@@ -1,5 +1,5 @@
 - [Syllabus](syllabus.md)
-- [Schedule + Notes](schedule.md)
+- [Schedule + Notes](home.md)
 - [Required Readings](readings.md)
 - [Assignments](assignments/A0.md)
 - [Resources](resources.md)
