@@ -1,4 +1,5 @@
 - [Syllabus](syllabus.md)
+- [AI Policy](ai-policy.md)
 - [Schedule + Notes](home.md)
 - [Required Readings](readings.md)
 - [Assignments](assignments/A0.md)
