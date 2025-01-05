@@ -1,8 +1,8 @@
 # COMP 350 - User Interface Design and Programming
 
 ## Links
-- [Syllabus](./syllabus.md)
-- [Course Schedule and Notes](./home.md)
+- [Syllabus](./docs/syllabus.md)
+- [Course Schedule and Notes](./docs/home.md)
 
 ## Course Description
 
