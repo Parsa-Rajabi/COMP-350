@@ -32,7 +32,8 @@ Note: When emailing, please include the following in your email:
 
 Students are expected to maintain a high level of professionalism in all course activities, communication with the instructor and peers, as well as timely responses to instructor emails (e.g. within 2 business days). This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line, a greeting, a clear message, **your full name/student ID#** and a closing. Using AI/ChatGPT to generate emails is **not recommended** and **such emails will be returned for revision**.
 
-Before sending an email, make sure to review this article on [How to email your profs effectively](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
+> [!WARNING]
+> Before sending an email, make sure to review this article on [How to email your profs effectively](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) for tips on how to effectively communicate with your instructor. **Emails that do not follow these guidelines will be returned to the sender for revision.**
 
 Repeated unprofessional behavior will result in grade deduction from your final grade, with each violation resulting in a 1% deduction. Students will be notified of possible deductions after the first warning.
 
@@ -144,7 +145,7 @@ The use of AI tools such as ChatGPT is permitted with specific guidelines (subje
 
 ### Academic Integrity
 
-Academic Integrity is important to me and I know it is to most students. Cheating is never worth the risk to your personal and professional reputation. I expect students to be truthful and honest in their work. This means that any work you submit for individual evaluation should be yours alone and that you recognize the work of others if you use their ideas, thoughts or material. The assignments have been designed to ensure that you learn the material. I ensure that all students are graded fairly and will take action against students who violate the academic dishonesty policy. Students who engage in any acts of falsification, misrepresentation, or deception will face penalties for violating UFV policy, which can include failure in the assignment and/or a FD-Failed for Discipline grade on your transcript. Listed below are some examples of academic dishonest behavior that will result in a grade penalty:
+Academic Integrity is important to me and I know it is to most students. Cheating is never worth the risk to your personal and professional reputation. I expect students to be truthful and honest in their work. This means that any work you submit for individual evaluation should be yours alone and that you recognize the work of others if you use their ideas, thoughts or material. The assignments have been designed to ensure that you learn the material. I ensure that all students are graded fairly and will take action against students who violate the [academic dishonesty policy 70](https://www.ufv.ca/media/assets/secretariat/policies/Student-Academic-Misconduct-(70)-Procedures.pdf). Students who engage in any acts of falsification, misrepresentation, or deception will face penalties for violating UFV policy, which can include failure in the assignment and/or a FD-Failed for Discipline grade on your transcript. Listed below are some examples of academic dishonest behavior that will result in a grade penalty:
 
 #### Plagiarism
 
