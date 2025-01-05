@@ -4,3 +4,4 @@
 - [Required Readings](readings.md)
 - [Assignments](assignments/A0.md)
 - [Resources](resources.md)
+- [Feedback](feedback.md)

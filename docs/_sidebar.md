@@ -5,3 +5,4 @@
 - [Assignments](assignments/A0.md)
 - [Optional Readings](readings-optional.md)
 - [Resources](resources.md)
+- [Feedback](feedback.md)
