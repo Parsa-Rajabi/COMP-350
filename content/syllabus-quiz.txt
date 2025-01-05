@@ -1,0 +1,43 @@
+MC	What is the course modality for COMP 350 AB1?	Live in-person every week	incorrect	Hybrid, alternating between in-person live and asynchronous online	correct	Fully asynchronous	incorrect	Fully online, synchronous	incorrect
+MC	Where should students direct their communication for this course?	Blackboard Messages	incorrect	Instructor's email	correct	Discussion Board	incorrect	Office phone	incorrect
+MC	What is required in the subject line when emailing the instructor?	[COMP 350 AB1] - Your Subject	correct	Your name and ID	incorrect	Help Request	incorrect	General Inquiry	incorrect
+MC	What should you include in the body of your email to the instructor?	Your full name and student ID	correct	Just your inquiry	incorrect	Your subject only	incorrect	Your course section only	incorrect
+TF	Students can use Blackboard Messages to communicate with the instructor.	false
+TF	Professionalism is expected in all course-related activities.	true
+MC	What is the policy for late submissions?	No late submissions will be accepted.	correct	Late submissions are allowed with a penalty.	incorrect	Late submissions are allowed up to 48 hours after the deadline.	incorrect	Extensions are granted upon request.	incorrect
+TF	The course schedule alternates between in-person and asynchronous sessions.	true
+MC	What time are the in-person sessions for this course?	19:00-21:50	correct	17:00-19:50	incorrect	18:00-20:50	incorrect	20:00-22:50	incorrect
+MC	On what day of the week do live in-person sessions occur?	Monday	correct	Wednesday	incorrect	Friday	incorrect	Thursday	incorrect
+TF	Office hours are available by appointment only.	true
+TF	Requests for Zoom appointments must be made at least 24 hours in advance.	true
+MC	What is the expected tone for communication with the instructor and peers?	Professional and respectful	correct	Casual and informal	incorrect	No specific tone required	incorrect	Strictly formal	incorrect
+MC	What should you do if you cannot attend an in-person session?	Notify the instructor in advance via email	correct	Post a message in Blackboard	incorrect	No action is needed	incorrect	Submit an excuse form after class	incorrect
+MC	Where can students find the course materials and resources?	Blackboard course page	correct	Instructor's website	incorrect	Course textbook only	incorrect	Email attachments	incorrect
+MC	What is the primary platform for submitting assignments?	Blackboard Assignments page	correct	Emailing the instructor	incorrect	Google Drive link	incorrect	In-person submission	incorrect
+TF	Students are responsible for checking Blackboard regularly for updates and announcements.	true
+MC	If you have a technical issue with Blackboard, what should you do first?	Contact the university’s IT support desk	correct	Email the instructor	incorrect	Wait for the issue to resolve	incorrect	Post about it on the discussion board	incorrect
+MC	What should you do if you miss a deadline for an assignment?	Check the late policy in the syllabus	correct	Submit the assignment immediately without informing the instructor	incorrect	Email the instructor requesting an extension	incorrect	Do nothing	incorrect
+TF	Attendance is mandatory for all in-person sessions.	true
+MC	How will students be notified of changes to the course schedule?	Via announcements on Blackboard	correct	Email from the instructor	incorrect	Class handouts	incorrect	No notification is provided	incorrect
+MC	What should students do to prepare for asynchronous sessions?	Complete the assigned readings and activities	correct	Just log into Blackboard	incorrect	No preparation is necessary	incorrect	Attend a Zoom call	incorrect
+TF	All assignments must be submitted through Blackboard unless otherwise stated.	true
+MC	What is the instructor’s preferred method for scheduling appointments?	Email with at least 24 hours’ notice	correct	Blackboard messages	incorrect	Text message	incorrect	Drop-in during in-person sessions	incorrect
+MC	What should you do if you notice a grading error?	Email the instructor with details of the error	correct	Post about it in the discussion board	incorrect	Wait until the next class to address it	incorrect	Correct it yourself in Blackboard	incorrect
+TF	It is the student’s responsibility to back up all work before submitting assignments.	true
+MC	What happens if you don’t use the correct email subject format?	The email may not receive a response	correct	The instructor will still reply immediately	incorrect	Your grade may be penalized	incorrect	It will be forwarded to the department chair	incorrect
+MC	When are grades for assignments typically posted?	Within two weeks of the due date	correct	At the end of the term	incorrect	Within three days	incorrect	As soon as they are graded	incorrect
+TF	Students are expected to participate actively in online discussions when assigned.	true
+MC	What should you do if Blackboard is down when an assignment is due?	Email the instructor immediately with proof of the issue	correct	Submit the assignment late with an apology	incorrect	Ignore the issue and wait until Blackboard is back up	incorrect	Contact the IT department only	incorrect
+MC	What document contains the detailed course objectives and expectations?	The syllabus	correct	The course schedule	incorrect	The grading rubric	incorrect	The textbook	incorrect
+MC	How can students access optional readings for the course?	Through links provided on Blackboard	correct	In the required textbook	incorrect	From the instructor’s office	incorrect	In online forums	incorrect
+TF	The syllabus includes all information about the grading breakdown.	true
+MC	What should students check to find deadlines for assignments?	The course schedule	correct	The textbook	incorrect	The syllabus only	incorrect	The discussion board	incorrect
+MC	What type of assignments will be included in this course?	Coding projects, presentations, and written reports	correct	Multiple-choice exams only	incorrect	Lab experiments only	incorrect	Group projects only	incorrect
+TF	Students are expected to review the course schedule at the beginning of each week.	true
+MC	What is the policy on plagiarism in this course?	Plagiarism results in a zero for the assignment and possible further action	correct	A warning is given for the first offense	incorrect	Plagiarism is allowed in drafts	incorrect	It depends on the instructor’s discretion	incorrect
+MC	How is professionalism evaluated in this course?	Through communication and adherence to deadlines	correct	Based on participation grades only	incorrect	Through peer reviews	incorrect	It is not evaluated	incorrect
+TF	Course updates will be announced during live in-person sessions only.	false
+MC	Where can students find the instructor’s office hours?	In the syllabus or on Blackboard	correct	On the university website	incorrect	In an email attachment	incorrect	On the discussion board	incorrect
+MC	What is required to participate in live in-person sessions?	A laptop, course materials, and preparation	correct	Attendance only	incorrect	Just the textbook	incorrect	Nothing is required	incorrect
+MC	What should students do if they feel overwhelmed by the course workload?	Reach out to the instructor or university support services	correct	Drop the course	incorrect	Do nothing and hope it improves	incorrect	Skip assignments to manage stress	incorrect
+TF	The course schedule and syllabus are subject to change.	true
