@@ -2,7 +2,7 @@
 
 ## Disclosure of AI Use
 
-- Link to the [AI Use Disclosure Form]()
+- Link to the AI Use Disclosure Form TBA
 
 ## Policy on the Use of AI Content Generators for Coursework.
 
@@ -34,11 +34,50 @@ Thirdly, there is a **risk of inadvertently plagiarizing** when using these tool
 
 Lastly, be aware of the dangers of becoming overly dependent on these tools. While they can be incredibly useful, relying on them too much can diminish your own critical thinking and writing skills.
 
-## For every submission, you are required to submit an "AI usage disclosure" 
+## For every assignment submission, you are required to submit an "AI usage disclosure" 
 
-Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. Failure to submit the disclosure will be considered a violation of the academic policy and a penalty of -25% will be applied to your grade if the disclosure is not submitted / attached to each of your submissions.
+Submitting this disclosure will help us understand and mitigate the risks associated with the use of AI tools in the course. The form will ask about your use of AI tools for the assignment and the extent to which you used them. Failure to submit the disclosure will be considered a violation of the academic policy and a penalty of` -25%` will be applied to your grade if the disclosure is not submitted / attached to each of your submissions.
 
-## AI Use for Project
+## For every learnig log submission, you are required to disclose the use of AI tools
+
+For every learning log submission, students will include a brief statement declaring how much AI was used in their response. This declaration is based on the AI Usage Scale provided in the syllabus and detailed below. The declaration will help the teaching team and your peers understand the context of your work.
+
+Similar to the AI usage disclosure for assignments, failure to include this statement will be considered a violation of the academic policy and a penalty of `-25%` will be applied to your grade if the disclosure is not included in your submission.
+
+### AI Usage Scale
+
+Select one of the following options (make sure to include the icon/emoji) to indicate the extent of AI use in your learning log submission:
+
+<div class="accordion">
+
+<details>
+  <summary>🟢 Entirely by myself, no contribution from AI</summary>
+  <p>The response was created entirely by the student without using AI tools.</p>
+</details>
+
+<details>
+  <summary>🟡 Mostly by myself, some contribution by AI</summary>
+  <p>AI was used minimally, for tasks like grammar checks, clarifications, or rephrasing.</p>
+</details>
+
+<details>
+  <summary>🟠 Evenly split between myself and AI</summary>
+  <p>The response reflects equal contributions from the student and AI, such as brainstorming or content generation with subsequent student refinements.</p>
+</details>
+
+<details>
+  <summary>🔵 Mostly by AI, some contribution by myself</summary>
+  <p>AI generated most of the content, and the student reviewed and made minor adjustments.</p>
+</details>
+
+<details>
+  <summary>🔴 Entirely by AI, no contribution from myself</summary>
+  <p>The response was fully created by AI and reviewed by the student for accuracy.</p>
+</details>
+
+</div>
+
+## AI Use for Assignment 3
 
 Although the use of AI tools is permitted for the assignments, the teaching team will be more stringent in auditing the use of AI tools for assignment 3. This is to ensure that students are not overly dependent on AI tools and that they are able to demonstrate their understanding of the course material. The instructor will conduct interviews with students to discuss their use of AI tools for assignment 3 and assess their understanding of the assignment content. Students who are unable to demonstrate their understanding of assignment 3 will be penalized through grade deductions and/or other measures.
 
