@@ -71,7 +71,7 @@ Select one of the following options (make sure to include the icon/emoji) to ind
 </details>
 
 <details>
-  <summary>🔴/⚠️ Entirely by AI, no contribution from myself</summary>
+  <summary>⚠️ Entirely by AI, no contribution from myself</summary>
   <p>The response was fully created by AI and reviewed by the student for accuracy.</p>
 </details>
 
