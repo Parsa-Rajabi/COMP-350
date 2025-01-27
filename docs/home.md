@@ -17,7 +17,7 @@ All course slides are password protected. Visit course info page on Blackboard (
 |    1    |  Jan 6   |   Asynchronous   |     No Class - Complete Quiz + Survey      |            Syllabus Quiz             |  Course Survey  |      LL0 (Jan 13)      |
 |    2    |  Jan 13  | Live [In-person] |         Syllabus + Intro to UX/UI          | [Slides](http://tiny.cc/350-SP25-W1) |                 |      LL1 (Jan 20)      |
 |    3    |  Jan 20  |   Asynchronous   |       Usability and User Experience        |   [3 Readings](readings.md#week-3)   |                 |      LL2 (Jan 27)      |
-|    4    |  Jan 27  | Live [In-person] |             Design Principles              |               [Slides]               |                 |      LL3 (Feb 3)       |
+|    4    |  Jan 27  | Live [In-person] |             Design Principles              | [Slides](http://tiny.cc/350-SP25-W4) |                 |      LL3 (Feb 3)       |
 |    5    |  Feb 3   |   Asynchronous   |          Understanding User Needs          |   [3 Readings](readings.md#week-5)   |   A1 (Feb 4)    |      LL4 (Feb 10)      |
 |    6    |  Feb 10  | Live [In-person] |            Heuristic Evaluation            |               [Slides]               |                 |      LL5 (Feb 18)      |
 |    7    |  Feb 17  |     No Class     |               Reading Break                |                  -                   |        -        |           -            |
