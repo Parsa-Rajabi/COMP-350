@@ -19,7 +19,7 @@ All course slides are password protected. Visit course info page on Blackboard (
 |    3    |  Jan 20  |   Asynchronous   |       Usability and User Experience        |   [3 Readings](readings.md#week-3)   |                 |      LL2 (Jan 27)      |
 |    4    |  Jan 27  | Live [In-person] |             Design Principles              | [Slides](http://tiny.cc/350-SP25-W4) |                 |      LL3 (Feb 3)       |
 |    5    |  Feb 3   |   Asynchronous   |          Understanding User Needs          |   [3 Readings](readings.md#week-5)   |   A1 (Feb 4)    |      LL4 (Feb 10)      |
-|    6    |  Feb 10  | Live [In-person] |            Heuristic Evaluation            |               [Slides]               |                 |      LL5 (Feb 18)      |
+|    6    |  Feb 10  | Live [In-person] |            Heuristic Evaluation            |              [Recording](http://tiny.cc/350-W6-Recording) <br> [Slides](http://tiny.cc/350-SP25-W6)               |                 |      LL5 (Feb 18)      |
 |    7    |  Feb 17  |     No Class     |               Reading Break                |                  -                   |        -        |           -            |
 |    8    |  Feb 24  | Live [In-person] |          HCI Prototyping Fidelity          |               [Slides]               |                 |      LL6 (Mar 3)       |
 |    9    |  Mar 3   |   Asynchronous   |    Bridging between problem and design     |   [3 Readings](readings.md#week-9)   |   A2 (Mar 4)    |      LL7 (Mar 10)      |
