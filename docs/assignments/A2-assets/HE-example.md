@@ -1,6 +1,6 @@
 # Example Heuristic Evaluation: SFU myExperience website
 
-![SFU myExperience](images/my-experience.png)
+![SFU myExperience](my-experience.png)
 *Figure 1. myExperience Career Job Postings page, with the Job Postings search box highlighted.*
 
 ## Name
