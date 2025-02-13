@@ -26,3 +26,8 @@
   - **Impact:** How severely does the issue affect the user's experience?
   - **Persistence:** How long does the issue last, and how difficult is it to overcome?
   - **Weighting:** How did you decide on the severity rating?
+- If you're evaluating a good aspect, justify why it's a good aspect and how it contributes to the user experience:
+  - **Frequency:** How often does the good aspect occur?
+  - **Impact:** How positively does the good aspect affect the user's experience? What would happen if it were not present?
+  - **Value:** How much value does the good aspect add to the user experience? What makes it stand out?
+  - **Weighting:** How did you decide on the rating for the good aspect?
