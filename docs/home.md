@@ -23,9 +23,9 @@ All course slides are password protected. Visit course info page on Blackboard (
 |    7    |  Feb 17  |     No Class     |               Reading Break                |                  -                   |        -        |           -            |
 |    8    |  Feb 24  | Live [In-person] |          HCI Prototyping Fidelity          |               [Slides](http://tiny.cc/350-SP25-W8)               |                 |      LL6 (Mar 3)       |
 |    9    |  Mar 3   |   Asynchronous   |    Bridging between problem and design     |   [3 Readings](readings.md#week-9)   |   A2 (Mar 4)    |      LL7 (Mar 10)      |
-|   10    |  Mar 10  | Live [In-person] |      Mid to High-fidelity Prototyping      |               [Slides]               |                 |      LL8 (Mar 17)      |
+|   10    |  Mar 10  | Live [In-person] |      Mid to High-fidelity Prototyping      |               [Slides](http://tiny.cc/350-SP25-W10)               |                 |      LL8 (Mar 17)      |
 |   11    |  Mar 17  |   Asynchronous   |        Essentials of Visual Design         |  [3 Readings](readings.md#week-11)   |                 |      LL9 (Mar 24)      |
-|   12    |  Mar 24  | Live [In-person] |                Midterm Exam                |                                      |                 |                        |
+|   12    |  Mar 24  | Live [In-person] |                Midterm Exam                |            [Midterm Details](midterm.md)                          |                 |                        |
 |   13    |  Mar 31  |   Asynchronous   |     Accessibility and Inclusive Design     |  [3 Readings](readings.md#week-13)   |                 |      LL10 (Apr 7)      |
 |   14    |  Apr 7   | Live [In-person] | Guest Speaker (tentative) + Course Wrap-up |                                      |   A3 (Apr 8)    |                        |
 
