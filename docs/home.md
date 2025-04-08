@@ -27,7 +27,7 @@ All course slides are password protected. Visit course info page on Blackboard (
 |   11    |  Mar 17  |   Asynchronous   |        Essentials of Visual Design         |  [3 Readings](readings.md#week-11)   |                 |      LL9 (Mar 24)      |
 |   12    |  Mar 24  | Live [In-person] |                Midterm Exam                |            [Midterm Details](midterm.md)                          |                 |                        |
 |   13    |  Mar 31  |   Asynchronous   |     Accessibility and Inclusive Design     |  [3 Readings](readings.md#week-13)   |                 |      LL10 (Apr 7)      |
-|   14    |  Apr 7   | Live [In-person] | Guest Speaker (tentative) + Course Wrap-up |                                      |   A3 (Apr 8)    |                        |
+|   14    |  Apr 7   | Live [In-person] |  Course Wrap-up |            [Slides](http://tiny.cc/350-SP25-W14)                          |   A3 (Apr 8)    |                        |
 
 
 > [!TIP]
